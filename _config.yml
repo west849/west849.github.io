@@ -13,7 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Seo dae won
-  tagline: Developer. Designer
+  tagline: WebPublisher
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
